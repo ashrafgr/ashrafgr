@@ -1,4 +1,5 @@
-### Hi there 👋
+## ASHRAFCOM GROUP
+    ashrafcom group is a telecommunication company aimed to develop and optimize the software of POS devices.
 
 <!--
 **ashrafgr/ashrafgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
